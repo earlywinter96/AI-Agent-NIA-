@@ -1,0 +1,11 @@
+speechrecognition
+pyttsx3
+openai
+gtts
+playsound
+llama-cpp-python
+flask
+fastapi
+uvicorn
+gradio
+torch
